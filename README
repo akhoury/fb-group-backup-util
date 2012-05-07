@@ -1,0 +1,10 @@
+Fb-group-backup
+
+Utility to backup your facebook group's data (docs, description and feeds)
+command line only. 
+
+DO NOT USE YET. 
+Still in dev.
+
+Uses facebook-client for node.js and temporarly js-beautify-node
+
